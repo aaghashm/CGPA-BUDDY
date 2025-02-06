@@ -249,7 +249,8 @@ const departments = {
           { subject: "Managing Cloud and Containerization", credit: 3 },
           { subject: "Testing Methodologies and Tools", credit: 3 },
           { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 }
-        ]
+        ],
+        "5":[],
         // Define other semesters here
       }
     },
@@ -309,6 +310,9 @@ const departments = {
           { subject: "Universal Human Values", credit: 3 },
           { subject: "Probability and Random Processes", credit: 4 }
         ],
+
+        "4":[],
+        "5":[],
         // Define other semesters here
       }
     },
@@ -370,6 +374,8 @@ const departments = {
           { subject: "Advanced Java Programming", credit: 3 },
           { subject: "Tamils and Technology", credit: 1 },
         ],
+        "4":[],
+        "5":[],
         // Define other semesters here
       }
     },
@@ -425,6 +431,8 @@ const departments = {
           { subject: "OPEN ELECTIVE: Data Structures", credit: 3 },
           { subject: "Tamils and Technology", credit: 1 }
         ],
+        "4":[],
+        "5":[],
         // Define other semesters here
       }
     },
@@ -451,6 +459,8 @@ const departments = {
           { subject: "Heritage of Tamils", credit: 3 }
         */],
         "3":[],
+        "4":[],
+        "5":[],
         // Define other semesters here
       }
     }
