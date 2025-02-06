@@ -48,23 +48,7 @@ function App() {
         isOpen={showPopup} 
         onClose={() => setShowPopup(false)} 
       />
-      
-      <button 
-  onClick={() => window.location.href = 'https://friskence.tech'}
-  style={{
-    position: 'fixed',
-    bottom: '20px',
-    right: '20px',
-    padding: '10px 20px',
-    background: '#2196F3',
-    color: 'white',
-    border: 'none',
-    borderRadius: '5px',
-    cursor: 'pointer'
-  }}
->
-  Try Friskence AI
-</button>
+
       </>
   );
 }
