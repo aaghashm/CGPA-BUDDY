@@ -30,7 +30,14 @@ const departments = {
           { subject: "Networking and Communication", credit: 4 },
           { subject: "Managing Cloud and Containerization", credit: 3 },
           { subject: "Testing Methodologies and Tools", credit: 3 },
-          { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 }
+          { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 },
+          { subject: "Machine Learning Techniques", credit: 3 },
+          { subject: "Machine Learning Techniques Laboratory", credit: 1.5 },
+          { subject: "Neural Networks and DL", credit: 3 },
+          { subject: "Automata Theory and Compiler design", credit: 4 },
+          { subject: "Economics Accounting and Finance", credit: 3 },
+          { subject: "OPEN ELECTIVE", credit: 3 },
+          { subject: "Software Design Pattern", credit: 3 }
         ],
         "1": [
           { subject: "Physical Sciences", credit: 4 },
@@ -69,6 +76,15 @@ const departments = {
           { subject: "Managing Cloud and Containerization", credit: 3 },
           { subject: "Testing Methodologies and Tools", credit: 3 },
           { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 }
+        ],
+        "5": [
+          { subject: "Machine Learning Techniques", credit: 3 },
+          { subject: "Machine Learning Techniques Laboratory", credit: 1.5 },
+          { subject: "Neural Networks and DL", credit: 3 },
+          { subject: "Automata Theory and Compiler design", credit: 4 },
+          { subject: "Economics Accounting and Finance", credit: 3 },
+          { subject: "OPEN ELECTIVE", credit: 3 },
+          { subject: "Software Design Pattern", credit: 3 }
         ]
         // Define other semesters here
       }
@@ -104,7 +120,14 @@ const departments = {
           { subject: "Networking and Communication", credit: 4 },
           { subject: "Managing Cloud and Containerization", credit: 3 },
           { subject: "Testing Methodologies and Tools", credit: 3 },
-          { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 }
+          { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 },
+          { subject: "Introduction to Microprocessors and Microcontrollers", credit: 4 },
+          { subject: " Neural Networks and Deep Learning", credit: 3 },
+          { subject: "OPEN ELECTIVE", credit: 3 },
+          { subject: "Economics, Accounting and Finance ", credit: 3 },
+          { subject: "Data Visualization Techniques", credit: 3 },
+          { subject: "Data Visualization Techniques Laboratory ", credit: 1.5 },
+          { subject: "Software Design Pattern ", credit: 3 }
         ],
         "1": [
           { subject: "Physical Sciences", credit: 4 },
@@ -143,6 +166,15 @@ const departments = {
           { subject: "Managing Cloud and Containerization", credit: 3 },
           { subject: "Testing Methodologies and Tools", credit: 3 },
           { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 }
+        ],
+        "5": [
+          { subject: "Introduction to Microprocessors and Microcontrollers", credit: 4 },
+          { subject: " Neural Networks and Deep Learning", credit: 3 },
+          { subject: "OPEN ELECTIVE", credit: 3 },
+          { subject: "Economics, Accounting and Finance ", credit: 3 },
+          { subject: "Data Visualization Techniques", credit: 3 },
+          { subject: "Data Visualization Techniques Laboratory ", credit: 1.5 },
+          { subject: "Software Design Pattern ", credit: 3 }
         ]
         // Define other semesters here
       }

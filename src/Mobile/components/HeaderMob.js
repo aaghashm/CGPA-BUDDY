@@ -20,11 +20,11 @@ const HEADERMOB = ({ image, word1, word2, word3 }) => {
             <div className="FRAME-WRAPPER">
               <div className="HOME-PARENT">
                 <Link to={"/"} className="HOME">HOME</Link>
-                <Link to={"/Comingsoon"} className="ABOUT">ABOUT</Link>
-                <Link to={"/Comingsoon"}className="CONTACT">CONTACT</Link>
+                <Link to={"https://friskence.tech"} className="ABOUT">ABOUT</Link>
+                <Link to={"https://friskence.tech"}className="CONTACT">CONTACT</Link>
               </div>
             </div>
-            <Link to={"/Comingsoon"} className="PROFILE-ICON-WRAPPER">
+            <Link to={"https://friskence.tech"} className="PROFILE-ICON-WRAPPER">
               <img
                 className="PROFILE-ICON"
                 loading="eager"

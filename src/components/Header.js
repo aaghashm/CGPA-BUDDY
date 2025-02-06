@@ -22,11 +22,11 @@ const Header = ({ titleWord1, titleWord2, titleWord3, image }) => {
             <div className="mark-calculation-removebg-prev">
               <div className="calculate-now-button">
                 <Link to="/" className="home">HOME</Link>
-                <Link to="/Comingsoon" className="about">ABOUT</Link>
-                <Link to="/Comingsoon" className="contact">CONTACT</Link>
+                <Link to="https://friskence.tech" className="about">ABOUT</Link>
+                <Link to="https://friskence.tech" className="contact">CONTACT</Link>
               </div>
             </div>
-            <Link to="/Comingsoon" className="profile-icon">
+            <Link to="https://friskence.tech" className="profile-icon">
               <img
                 className="iconfilluser"
                 loading="eager"
