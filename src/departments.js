@@ -210,7 +210,14 @@ const departments = {
           { subject: "Networking and Communication", credit: 4 },
           { subject: "Managing Cloud and Containerization", credit: 3 },
           { subject: "Testing Methodologies and Tools", credit: 3 },
-          { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 }
+          { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 },
+          { subject: "Open Elective", credit: 3 },
+          { subject: "Automata Theory and Compiler Design ", credit: 4 },
+          { subject: "Microprocessors and Microcontrollers", credit: 3 },
+          { subject: "Microprocessors and Microcontrollers Laboratory ", credit: 1.5 },
+          { subject: " Big Data Analytics", credit: 3 },
+          { subject: "Economics, Accounting and Finance ", credit: 3 },
+          { subject: "Software Design Pattern ", credit: 3 }
         ],
         "1": [
           { subject: "Physical Sciences", credit: 4 },
@@ -250,7 +257,15 @@ const departments = {
           { subject: "Testing Methodologies and Tools", credit: 3 },
           { subject: "REST APPLICATION DEVELOPMENT USING SPRING BOOT AND JPA", credit: 3 }
         ],
-        "5":[],
+        "5": [
+          { subject: "Open Elective", credit: 3 },
+          { subject: "Automata Theory and Compiler Design ", credit: 4 },
+          { subject: "Microprocessors and Microcontrollers", credit: 3 },
+          { subject: "Microprocessors and Microcontrollers Laboratory ", credit: 1.5 },
+          { subject: " Big Data Analytics", credit: 3 },
+          { subject: "Economics, Accounting and Finance ", credit: 3 },
+          { subject: "Software Design Pattern ", credit: 3 }
+        ],
         // Define other semesters here
       }
     },
